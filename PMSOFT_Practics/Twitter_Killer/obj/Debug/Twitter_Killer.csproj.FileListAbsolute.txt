@@ -26,3 +26,6 @@ D:\Study\PMSOFT\twitter-killer-client-windows\PMSOFT_Practics\Twitter_Killer\bin
 D:\Study\PMSOFT\twitter-killer-client-windows\PMSOFT_Practics\Twitter_Killer\bin\Debug\GalaSoft.MvvmLight.xml
 D:\Study\PMSOFT\twitter-killer-client-windows\PMSOFT_Practics\Twitter_Killer\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
 D:\Study\PMSOFT\twitter-killer-client-windows\PMSOFT_Practics\Twitter_Killer\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Ann\Documents\GitHub\Trash\PMSOFT_Practics\Twitter_Killer\bin\Debug\Twitter_Killer.exe.config
+C:\Users\Ann\Documents\GitHub\Trash\PMSOFT_Practics\Twitter_Killer\obj\Debug\Twitter_Killer.exe
+C:\Users\Ann\Documents\GitHub\Trash\PMSOFT_Practics\Twitter_Killer\obj\Debug\Twitter_Killer.pdb
